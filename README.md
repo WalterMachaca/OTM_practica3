@@ -27,7 +27,7 @@ Código de Módulos
 ![Captura Módulos](CAPTURAS/Módulos.PNG)
 
 
-## Captura Formulario_de_registro:
+## Captura Formulario:
 
 Código del formulario de registro
-![Captura Formulario_de_registro](CAPTURAS/Formulario_de_registro.PNG)
+![Captura Formulario](CAPTURAS/Formulario.PNG)
